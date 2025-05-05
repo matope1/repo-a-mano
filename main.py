@@ -11,3 +11,4 @@ def div(x, y):
     return x / y
 def casa
 def hotel
+def piso
