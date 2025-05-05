@@ -7,3 +7,5 @@ def mul(x, y):
 def rest(x, y):
     return x - y
 
+def div(x, y):
+    return x / y
